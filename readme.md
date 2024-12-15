@@ -1,6 +1,7 @@
 # Decision Trees and Ensemble Methods from Scratch
 
 This repository contains implementations of various tree-based machine learning algorithms and ensemble methods from first principles. It aims to provide a deeper understanding of how decision trees, random forests, AdaBoost, and gradient boosting machines (GBMs) work under the hood. Additionally, it showcases the usage of popular gradient boosting frameworks such as XGBoost, LightGBM, and CatBoost for classification, regression, and ranking tasks.
+# [Video link](https://youtu.be/e9Er4_LkXdI)
 
 ## Table of Contents
 
